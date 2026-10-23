@@ -1,0 +1,40 @@
+{
+  "choices": {
+    "117": {
+      "norm_in": {
+        "waves": 4,
+        "rows": 4
+      },
+      "norm_out": {
+        "waves": 8,
+        "rows": 4
+      },
+      "gate": {
+        "channels": 32
+      }
+    },
+    "312": {
+      "norm_in": {
+        "waves": 4,
+        "rows": 4
+      },
+      "norm_out": {
+        "waves": 4,
+        "rows": 8
+      },
+      "gate": {
+        "channels": 32
+      }
+    },
+    "576": {
+      "norm_in": {
+        "waves": 4,
+        "rows": 4
+      },
+      "norm_out": {
+        "waves": 4,
+        "rows": 16
+      }
+    }
+  }
+}

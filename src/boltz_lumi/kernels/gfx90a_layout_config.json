@@ -1,0 +1,20 @@
+{
+  "choices": {
+    "matmul_left": {
+      "config": {
+        "bm": 128,
+        "bn": 128,
+        "warps": 4,
+        "waves": 4
+      }
+    },
+    "matmul_right": {
+      "config": {
+        "bm": 128,
+        "bn": 128,
+        "warps": 1,
+        "waves": 0
+      }
+    }
+  }
+}
