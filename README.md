@@ -89,4 +89,9 @@ bash scripts/lumi.sh python tests/test_workflow.py
 ```
 
 Regenerate the figure with `python scripts/plot_benchmarks.py` (requires Matplotlib and Seaborn).
-Third-party licenses are listed in [source notices](third_party/README.md).
+
+## License
+
+boltz-lumi is licensed under the [MIT License](LICENSE). Third-party code and
+data remain subject to their respective licenses, listed in
+[source notices](third_party/README.md).
